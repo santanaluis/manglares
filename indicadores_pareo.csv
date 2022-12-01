@@ -1,0 +1,52 @@
+﻿NOM_VAR,GRUPO
+ENTIDAD,Identificador
+NOM_ENT ,Identificador
+MUN,Identificador
+NOM_MUN   ,Identificador
+LOC,Identificador
+NOM_LOC ,Identificador
+LONGITUD ,Identificador
+LATITUD,Identificador
+ALTITUD,Identificador
+POBTOT,Sensibilidad
+POBFEM,Sensibilidad
+POBMAS,Sensibilidad
+P_0A2_F,Poblacion femenina
+P_0A2_M,Poblacion masculina
+P_3A5_F,Poblacion femenina
+P_3A5_M,Poblacion masculina
+P_6A11_F,Poblacion femenina
+P_6A11_M,Poblacion masculina
+P_12A14_F,Poblacion femenina
+P_12A14_M,Poblacion masculina
+P_60YMAS,Sensibilidad
+P_60YMAS_F,Sensibilidad
+P_60YMAS_M,Sensibilidad
+POB0_14,Sensibilidad
+P3HLINHE,Sensibilidad
+P3HLINHE_F,Sensibilidad
+P3HLINHE_M,Sensibilidad
+PHOG_IND,Sensibilidad
+POB_AFRO,Sensibilidad
+POB_AFRO_F,Sensibilidad
+POB_AFRO_M,Sensibilidad
+PCON_DISC,Sensibilidad
+PCON_LIMI,Sensibilidad
+PCLIM_PMEN,Sensibilidad
+GRAPROES,Capacidad adaptativa
+GRAPROES_F,Capacidad adaptativa
+GRAPROES_M,Capacidad adaptativa
+PDESOCUP,Sensibilidad
+PDESOCUP_F,Sensibilidad
+PDESOCUP_M,Sensibilidad
+PSINDER,Sensibilidad
+PHOGJEF_F,Sensibilidad
+PHOGJEF_M,Sensibilidad
+VIVTOT,Sensibilidad
+VPH_PISOTI,Sensibilidad
+VPH_S_ELEC,Sensibilidad
+VPH_AGUAFV,Sensibilidad
+VPH_NODREN,Sensibilidad
+VPH_SNBIEN,Sensibilidad
+VPH_RADIO,Capacidad adaptativa
+VPH_TV,Capacidad adaptativa
