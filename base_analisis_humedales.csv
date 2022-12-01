@@ -1,73 +1,73 @@
-Entidad,Clave_Entidad,Municipio,Clave_Municipio, Cuenta_Atlas ,Anio_Atlas,Cuenta_PPC,Cuenta_UnidadPC
+Entidad,Clave_Entidad,Municipio,Clave_Municipio, CUENTA_ATLAS ,ANIO_ATLAS,CUENTA_PPC,CUENTA_UPC
 Aguascalientes ,01,Aguascalientes,001,1,2006,1,1
 Aguascalientes ,01,El Llano ,010,1,2012,0,1
 Aguascalientes ,01,Rincon de Romos ,007,1,2012,0,0
 Aguascalientes ,01,San Francisco de los Romo ,011,1,2012,0,1
-Baja California Sur  ,03,Comond˙,001,1,2011,0,1
+Baja California Sur  ,03,Comond√∫,001,1,2011,0,1
 Baja California Sur  ,03,La Paz ,003,1,2012,1,1
 Baja California Sur  ,03,Los Cabos ,008,1,2022,1,1
-Baja California Sur  ,03,MulegÈ,002,1,2011,0,0
+Baja California Sur  ,03,Muleg√©,002,1,2011,0,0
 Coahuila de Zaragoza,05, Matamoros,017,1,2015,1,1
-Coahuila de Zaragoza,05, M˙zquiz,020,1,2012,1,1
+Coahuila de Zaragoza,05, M√∫zquiz,020,1,2012,1,1
 Coahuila de Zaragoza,05,Nadadores,021,1,2012,0,1
 Coahuila de Zaragoza,05,Saltillo,030,1,2014,1,1
-Coahuila de Zaragoza,05,TorreÛn ,035,1,2020,1,1
-Colima ,06,†ArmerÌa,001,1,2013,0,1
+Coahuila de Zaragoza,05,Torre√≥n ,035,1,2020,1,1
+Colima ,06,¬†Armer√≠a,001,1,2013,0,1
 Colima ,06,Colima,002,1,2014,1,1
-Colima ,06,Coquimatl·n,004,1,2013,0,1
-Colima ,06,†Ixtlahuac·n,006,1,2015,0,1
+Colima ,06,Coquimatl√°n,004,1,2013,0,1
+Colima ,06,¬†Ixtlahuac√°n,006,1,2015,0,1
 Colima ,06,Manzanillo,007,1,2012,1,1
-Colima ,06, Minatitl·n,008,1,2015,0,1
-Colima ,06,Tecom·n,009,1,2011,1,1
-Colima ,06,Villa de ¡lvarez,010,1,2015,0,1
-Chihuahua,08,†Aquiles Serd·n,004,1,2015,0,0
+Colima ,06, Minatitl√°n,008,1,2015,0,1
+Colima ,06,Tecom√°n,009,1,2011,1,1
+Colima ,06,Villa de √Ålvarez,010,1,2015,0,1
+Chihuahua,08,¬†Aquiles Serd√°n,004,1,2015,0,0
 Chihuahua,08,Camargo,011,1,2015,0,1
 Chihuahua,08,Chihuahua,019,1,2014,1,1
-Chihuahua,08,†CuauhtÈmoc,017,1,2014,1,1
-Chihuahua,08,†Delicias,021,1,2014,0,0
+Chihuahua,08,¬†Cuauht√©moc,017,1,2014,1,1
+Chihuahua,08,¬†Delicias,021,1,2014,0,0
 Chihuahua,08,Hidalgo del Parral,032,1,2011,0,1
-Chihuahua,08,Ju·rez,037,1,2010,1,1
-Chihuahua,08,†Ojinaga,052,1,2011,0,1
-Ciudad de Mexico ,09,¡lvaro ObregÛn,010,1,2011,1,1
+Chihuahua,08,Ju√°rez,037,1,2010,1,1
+Chihuahua,08,¬†Ojinaga,052,1,2011,0,1
+Ciudad de Mexico ,09,√Ålvaro Obreg√≥n,010,1,2011,1,1
 Ciudad de Mexico ,09,Azcapotzalco,002,1,2017,1,1
-Ciudad de Mexico ,09,Benito Ju·rez,014,1,2012,1,1
-Ciudad de Mexico ,09,Coyoac·n,003,1,2015,1,1
-Ciudad de Mexico ,09,†Cuajimalpa de Morelos,004,1,2013,1,1
-Ciudad de Mexico ,09,†Gustavo A. Madero,005,1,2014,1,1
-Ciudad de Mexico ,09,†Iztacalco,006,1,2016,1,1
-Ciudad de Mexico ,09,†Iztapalapa,007,1,2019,1,1
-Ciudad de Mexico ,09,†La Magdalena Contreras,008,1,2011,1,1
+Ciudad de Mexico ,09,Benito Ju√°rez,014,1,2012,1,1
+Ciudad de Mexico ,09,Coyoac√°n,003,1,2015,1,1
+Ciudad de Mexico ,09,¬†Cuajimalpa de Morelos,004,1,2013,1,1
+Ciudad de Mexico ,09,¬†Gustavo A. Madero,005,1,2014,1,1
+Ciudad de Mexico ,09,¬†Iztacalco,006,1,2016,1,1
+Ciudad de Mexico ,09,¬†Iztapalapa,007,1,2019,1,1
+Ciudad de Mexico ,09,¬†La Magdalena Contreras,008,1,2011,1,1
 Ciudad de Mexico ,09,Miguel Hidalgo,016,1,2020,1,1
-Ciudad de Mexico ,09,†Milpa Alta,009,1,2018,1,1
+Ciudad de Mexico ,09,¬†Milpa Alta,009,1,2018,1,1
 Ciudad de Mexico ,09,Tlalpan,012,1,2011,1,1
 Ciudad de Mexico ,09,Xochimilco,013,1,2015,1,1
 Durango,10,Durango,005,1,2012,1,1
-Durango,10,GÛmez Palacio,007,1,2014,1,1
+Durango,10,G√≥mez Palacio,007,1,2014,1,1
 Durango,10,Guadalupe Victoria,008,1,2014,1,1
 Durango,10,Lerdo,012,1,2014,1,1
 Guanajuato,11,Celaya,007,1,2020,1,1
-Guanajuato,11,†Irapuato,017,1,2013,1,1
-Guanajuato,11,LeÛn,020,1,2006,1,1
-Guanajuato,11,MoroleÛn,020,1,2021,0,1
-Guanajuato,11,†San Miguel de Allende,003,1,2013,1,1
-Guerrero,12,Acapulco de Ju·rez,001,1,2021,1,1
+Guanajuato,11,¬†Irapuato,017,1,2013,1,1
+Guanajuato,11,Le√≥n,020,1,2006,1,1
+Guanajuato,11,Morole√≥n,020,1,2021,0,1
+Guanajuato,11,¬†San Miguel de Allende,003,1,2013,1,1
+Guerrero,12,Acapulco de Ju√°rez,001,1,2021,1,1
 Guerrero,12,Chilpancingo de los Bravo,029,1,2016,1,1
 Guerrero,12,Zihuatanejo de Azueta,038,1,2011,1,1
 Hidalgo,13,Actopan,003,1,2013,0,1
 Hidalgo,13,Almoloya,007,1,2015,1,1
 Hidalgo,13,Atitalaquia,010,1,2020,1,1
-Hidalgo,13,†Atotonilco el Grande,012,1,2015,0,1
+Hidalgo,13,¬†Atotonilco el Grande,012,1,2015,0,1
 Hidalgo,13,Chilcuautla,019,1,2016,0,1
 Hidalgo,13,Cuautepec de Hinojosa,016,1,2012,0,0
-Hidalgo,13,†El Arenal,009,1,2020,0,0
+Hidalgo,13,¬†El Arenal,009,1,2020,0,0
 Hidalgo,13,Huasca de Ocampo,024,1,2015,0,1
 Hidalgo,13,Huehuetla,027,1,2020,0,0
 Hidalgo,13,Huejutla de Reyes,028,1,2013,0,1
-Hidalgo,13,†Mineral de la Reforma,051,1,2018,1,1
+Hidalgo,13,¬†Mineral de la Reforma,051,1,2018,1,1
 Hidalgo,13,Pachuca de Soto,048,1,2017,1,1
 Hidalgo,13,Tenango de Doria,060,1,2013,1,1
-Hidalgo,13,Tepeji del RÌo de Ocampo,063,1,2014,1,1
-Hidalgo,13,†Tepetitl·n,064,1,2020,0,1
+Hidalgo,13,Tepeji del R√≠o de Ocampo,063,1,2014,1,1
+Hidalgo,13,¬†Tepetitl√°n,064,1,2020,0,1
 Hidalgo,13,Tezontepec de Aldama,067,1,2014,0,1
 Hidalgo,13,Tizayuca,069,1,2020,1,1
 Hidalgo,13,Tlahuelilpan,070,1,2020,1,1
@@ -77,180 +77,180 @@ Hidalgo,13,Tula de Allende,076,1,2020,0,1
 Hidalgo,13,Tulancingo de Bravo,077,1,2017,1,1
 Hidalgo,13,Villa de Tezontepec,066,1,2013,0,1
 Hidalgo,13,Xochiatipan,078,1,2020,1,1
-Hidalgo,13,Zapotl·n de Ju·rez,082,1,2014,1,1
-Hidalgo,13,†Zimap·n,084,1,2016,0,0
-MÈxico,15,†Acambay de RuÌz CastaÒeda,001,1,2019,1,1
-MÈxico,15,†Acolman,002,1,2012,1,1
-MÈxico,15,†Aculco,003,1,2020,1,1
-MÈxico,15,Almoloya de Alquisiras,004,1,2020,1,1
-MÈxico,15,Almoloya de Ju·rez,005,1,2019,1,1
-MÈxico,15,Almoloya del RÌo,006,1,2019,1,1
-MÈxico,15,†Amanalco,007,1,2019,1,1
-MÈxico,15,Amatepec,008,1,2020,1,1
-MÈxico,15,Amecameca,009,1,2013,1,1
-MÈxico,15,†Apaxco,010,1,2020,1,1
-MÈxico,15,Atenco,011,1,2016,1,1
-MÈxico,15,Atizap·n,012,1,2020,1,1
-MÈxico,15,†Atizap·n de Zaragoza,013,1,2020,1,1
-MÈxico,15,†Atlacomulco,014,1,2020,1,1
-MÈxico,15,Atlautla,015,1,2020,1,1
-MÈxico,15,†Axapusco,016,1,2020,1,1
-MÈxico,15,Ayapango,017,1,2014,1,1
-MÈxico,15,Calimaya,018,1,2019,1,1
-MÈxico,15,Capulhuac,019,1,2019,1,1
-MÈxico,15,Chalco,025,1,2019,1,1
-MÈxico,15,Chapa de Mota,026,1,2020,1,1
-MÈxico,15,Chapultepec,027,1,2019,1,1
-MÈxico,15,Chiautla,028,1,2015,1,1
-MÈxico,15,Chicoloapan,029,1,2011,1,1
-MÈxico,15,Chiconcuac,030,1,2014,1,1
-MÈxico,15,†Chimalhuac·n,031,1,2019,1,1
-MÈxico,15,†Coacalco de Berrioz·bal,020,1,2020,1,1
-MÈxico,15,Coatepec Harinas,021,1,2015,1,1
-MÈxico,15,Cocotitl·n,022,1,2019,1,1
-MÈxico,15,Coyotepec,023,1,2018,1,1
-MÈxico,15,†Cuautitl·n,024,1,2010,1,1
-MÈxico,15,Cuautitl·n Izcalli,121,1,2019,1,1
-MÈxico,15,Donato Guerra,032,1,2020,1,1
-MÈxico,15,Ecatepec de Morelos,033,1,2019,1,1
-MÈxico,15,Ecatzingo,034,1,2019,1,1
-MÈxico,15,El Oro,064,1,2020,1,1
-MÈxico,15,†Huehuetoca,035,1,2019,1,1
-MÈxico,15,Hueypoxtla,036,1,2020,1,1
-MÈxico,15,Huixquilucan,037,1,2017,1,1
-MÈxico,15,Isidro Fabela,038,1,2020,1,1
-MÈxico,15,†Ixtapaluca,039,1,2020,1,1
-MÈxico,15,Ixtapan de la Sal,040,1,2019,1,1
-MÈxico,15,Ixtapan del Oro,041,1,2017,1,1
-MÈxico,15,Ixtlahuaca,042,1,2019,1,1
-MÈxico,15,†Jaltenco,044,1,2020,1,1
-MÈxico,15,†Jilotepec,045,1,2019,1,1
-MÈxico,15,Jilotzingo,046,1,2019,1,1
-MÈxico,15,Jiquipilco,047,1,2019,1,1
-MÈxico,15,Jocotitl·n,048,1,2019,1,1
-MÈxico,15,Joquicingo,049,1,2020,1,1
-MÈxico,15,Juchitepec,050,1,2019,1,1
-MÈxico,15,†La Paz,070,1,2014,1,1
-MÈxico,15,Lerma,051,1,2020,1,1
-MÈxico,15,Luvianos,123,1,2019,1,1
-MÈxico,15,Malinalco,052,1,2019,1,1
-MÈxico,15,Melchor Ocampo,053,1,2020,1,1
-MÈxico,15,Metepec,054,1,2019,1,1
-MÈxico,15,Mexicaltzingo,055,1,2020,1,1
-MÈxico,15,Morelos,056,1,2020,1,1
-MÈxico,15,Naucalpan de Ju·rez,057,1,2014,1,1
-MÈxico,15,Nextlalpan,059,1,2014,1,1
-MÈxico,15,NezahualcÛyotl,058,1,2016,1,1
-MÈxico,15,Nicol·s Romero,060,1,2019,1,1
-MÈxico,15,Nopaltepec,061,1,2014,1,1
-MÈxico,15,Ocoyoacac,062,1,2020,1,1
-MÈxico,15,†Ocuilan,063,1,2020,1,1
-MÈxico,15,Otumba,065,1,2020,1,1
-MÈxico,15,Otzoloapan,066,1,2016,1,1
-MÈxico,15,Otzolotepec,067,1,2019,1,1
-MÈxico,15,Ozumba,068,1,2019,1,1
-MÈxico,15,Papalotla,069,1,2015,1,1
-MÈxico,15,Polotitl·n,071,1,2020,1,1
-MÈxico,15,RayÛn,072,1,2019,1,1
-MÈxico,15,San Antonio la Isla,073,1,2020,1,1
-MÈxico,15,San Felipe del Progreso,074,1,2019,1,1
-MÈxico,15,San JosÈ del RincÛn,124,1,2020,1,1
-MÈxico,15,San MartÌn de las Pir·mides,075,1,2020,1,1
-MÈxico,15,San Mateo Atenco,076,1,2018,1,1
-MÈxico,15,†San SimÛn de Guerrero,077,1,2018,1,1
-MÈxico,15,Santo Tom·s,078,1,2020,1,1
-MÈxico,15,Soyaniquilpan de Ju·rez,079,1,2014,1,1
-MÈxico,15,Sultepec,080,1,2020,1,1
-MÈxico,15,Tec·mac,081,1,2020,1,1
-MÈxico,15,Tejupilco,082,1,2018,1,1
-MÈxico,15,Temamatla,083,1,2015,1,1
-MÈxico,15,Temascalapa,084,1,2014,1,1
-MÈxico,15,Temascalcingo,085,1,2020,1,1
-MÈxico,15,Temascaltepec,086,1,2016,1,1
-MÈxico,15,Temoaya,087,1,2019,1,1
-MÈxico,15,Tenancingo,088,1,2019,1,1
-MÈxico,15,Tenango del Aire,089,1,2015,1,1
-MÈxico,15,Tenango del Valle,090,1,2016,1,1
-MÈxico,15,Teoloyucan,091,1,2018,1,1
-MÈxico,15,Teotihuac·n,092,1,2019,1,1
-MÈxico,15,Tepetlaoxtoc,093,1,2020,1,1
-MÈxico,15,Tepetlixpa,094,1,2020,1,1
-MÈxico,15,Tepotzotl·n,095,1,2019,1,1
-MÈxico,15,Tequixquiac,096,1,2020,1,1
-MÈxico,15,Texcaltitl·n,097,1,2014,1,1
-MÈxico,15,Texcalyacac,098,1,2019,1,1
-MÈxico,15,Texcoco,099,1,2012,1,1
-MÈxico,15,Tezoyuca,100,1,2017,1,1
-MÈxico,15,Tianguistenco,101,1,2019,1,1
-MÈxico,15,Timilpan,102,1,2020,1,1
-MÈxico,15,Tlalmanalco,103,1,2019,1,1
-MÈxico,15,Tlalnepantla de Baz,104,1,2019,1,1
-MÈxico,15,Tlatlaya,105,1,2014,1,1
-MÈxico,15,Toluca,106,1,2019,1,1
-MÈxico,15,Tonanitla,125,1,2020,1,1
-MÈxico,15,Tonatico,107,1,2020,1,1
-MÈxico,15,Tultepec,108,1,2020,1,1
-MÈxico,15,Tultitl·n,109,1,2019,1,1
-MÈxico,15,Valle de Bravo,110,1,2020,1,1
-MÈxico,15,Valle de Chalco Solidaridad,122,1,2011,1,1
-MÈxico,15,Villa de Allende,111,1,2019,1,1
-MÈxico,15,Villa del CarbÛn,112,1,2019,1,1
-MÈxico,15,Villa Guerrero,113,1,2020,1,1
-MÈxico,15,Villa Victoria,114,1,2019,1,1
-MÈxico,15,Xalatlaco,043,1,2020,1,1
-MÈxico,15,†Xonacatl·n,115,1,2019,1,1
-MÈxico,15,Zacazonapan,116,1,2020,1,1
-MÈxico,15,Zacualpan,117,1,2018,1,1
-MÈxico,15,Zinacantepec,118,1,2020,1,1
-MÈxico,15,Zumpahuac·n,119,1,2018,1,1
-MÈxico,15,Zumpango,120,1,2020,1,1
- Michoac·n de Ocampo,16,Angangueo,005,1,2012,1,0
- Michoac·n de Ocampo,16,BriseÒas,011,1,2011,1,0
- Michoac·n de Ocampo,16,Charapan,021,1,2011,1,0
- Michoac·n de Ocampo,16,Chilchota,025,1,2018,1,0
- Michoac·n de Ocampo,16,Cojumatl·n de RÈgules,074,1,2011,1,0
- Michoac·n de Ocampo,16,Gabriel Zamora,033,1,2013,1,0
- Michoac·n de Ocampo,16,Hidalgo,034,1,2014,1,0
- Michoac·n de Ocampo,16,Huandacareo,036,1,2013,1,0
- Michoac·n de Ocampo,16,Huaniqueo,037,1,2011,1,0
- Michoac·n de Ocampo,16,Huetamo,038,1,2014,1,1
- Michoac·n de Ocampo,16,Jacona,043,1,2014,1,0
- Michoac·n de Ocampo,16,Ju·rez,046,1,2011,1,0
- Michoac·n de Ocampo,16,Jungapeo,047,1,2011,1,0
- Michoac·n de Ocampo,16,La Huacana,035,1,2011,1,0
- Michoac·n de Ocampo,16,L·zaro C·rdenas,052,1,2011,1,1
- Michoac·n de Ocampo,16,MaravatÌo,050,1,2020,1,0
- Michoac·n de Ocampo,16,Morelia,053,1,2001,1,1
- Michoac·n de Ocampo,16,P·tzcuaro,066,1,2008,1,1
- Michoac·n de Ocampo,16,Puru·ndiro,071,1,2011,1,0
- Michoac·n de Ocampo,16,QuerÈndaro,072,1,2011,1,0
- Michoac·n de Ocampo,16,San Lucas,077,1,2011,1,0
- Michoac·n de Ocampo,16,†TarÌmbaro,088,1,2014,1,0
- Michoac·n de Ocampo,16,Tiquicheo de Nicol·s Romero,092,1,2013,1,0
- Michoac·n de Ocampo,16,Tuxpan,098,1,2011,1,0
- Michoac·n de Ocampo,16,Tuzantla,099,1,2013,1,0
- Michoac·n de Ocampo,16,Uruapan,102,1,2019,1,1
- Michoac·n de Ocampo,16,Zamora,108,1,2013,1,1
- Michoac·n de Ocampo,16,Zit·cuaro,112,1,2014,1,1
-Nayarit,18,Ahuacatl·n,002,1,2014,0,0
-Nayarit,18,BahÌa de Banderas,020,1,2020,1,1
+Hidalgo,13,Zapotl√°n de Ju√°rez,082,1,2014,1,1
+Hidalgo,13,¬†Zimap√°n,084,1,2016,0,0
+M√©xico,15,¬†Acambay de Ru√≠z Casta√±eda,001,1,2019,1,1
+M√©xico,15,¬†Acolman,002,1,2012,1,1
+M√©xico,15,¬†Aculco,003,1,2020,1,1
+M√©xico,15,Almoloya de Alquisiras,004,1,2020,1,1
+M√©xico,15,Almoloya de Ju√°rez,005,1,2019,1,1
+M√©xico,15,Almoloya del R√≠o,006,1,2019,1,1
+M√©xico,15,¬†Amanalco,007,1,2019,1,1
+M√©xico,15,Amatepec,008,1,2020,1,1
+M√©xico,15,Amecameca,009,1,2013,1,1
+M√©xico,15,¬†Apaxco,010,1,2020,1,1
+M√©xico,15,Atenco,011,1,2016,1,1
+M√©xico,15,Atizap√°n,012,1,2020,1,1
+M√©xico,15,¬†Atizap√°n de Zaragoza,013,1,2020,1,1
+M√©xico,15,¬†Atlacomulco,014,1,2020,1,1
+M√©xico,15,Atlautla,015,1,2020,1,1
+M√©xico,15,¬†Axapusco,016,1,2020,1,1
+M√©xico,15,Ayapango,017,1,2014,1,1
+M√©xico,15,Calimaya,018,1,2019,1,1
+M√©xico,15,Capulhuac,019,1,2019,1,1
+M√©xico,15,Chalco,025,1,2019,1,1
+M√©xico,15,Chapa de Mota,026,1,2020,1,1
+M√©xico,15,Chapultepec,027,1,2019,1,1
+M√©xico,15,Chiautla,028,1,2015,1,1
+M√©xico,15,Chicoloapan,029,1,2011,1,1
+M√©xico,15,Chiconcuac,030,1,2014,1,1
+M√©xico,15,¬†Chimalhuac√°n,031,1,2019,1,1
+M√©xico,15,¬†Coacalco de Berrioz√°bal,020,1,2020,1,1
+M√©xico,15,Coatepec Harinas,021,1,2015,1,1
+M√©xico,15,Cocotitl√°n,022,1,2019,1,1
+M√©xico,15,Coyotepec,023,1,2018,1,1
+M√©xico,15,¬†Cuautitl√°n,024,1,2010,1,1
+M√©xico,15,Cuautitl√°n Izcalli,121,1,2019,1,1
+M√©xico,15,Donato Guerra,032,1,2020,1,1
+M√©xico,15,Ecatepec de Morelos,033,1,2019,1,1
+M√©xico,15,Ecatzingo,034,1,2019,1,1
+M√©xico,15,El Oro,064,1,2020,1,1
+M√©xico,15,¬†Huehuetoca,035,1,2019,1,1
+M√©xico,15,Hueypoxtla,036,1,2020,1,1
+M√©xico,15,Huixquilucan,037,1,2017,1,1
+M√©xico,15,Isidro Fabela,038,1,2020,1,1
+M√©xico,15,¬†Ixtapaluca,039,1,2020,1,1
+M√©xico,15,Ixtapan de la Sal,040,1,2019,1,1
+M√©xico,15,Ixtapan del Oro,041,1,2017,1,1
+M√©xico,15,Ixtlahuaca,042,1,2019,1,1
+M√©xico,15,¬†Jaltenco,044,1,2020,1,1
+M√©xico,15,¬†Jilotepec,045,1,2019,1,1
+M√©xico,15,Jilotzingo,046,1,2019,1,1
+M√©xico,15,Jiquipilco,047,1,2019,1,1
+M√©xico,15,Jocotitl√°n,048,1,2019,1,1
+M√©xico,15,Joquicingo,049,1,2020,1,1
+M√©xico,15,Juchitepec,050,1,2019,1,1
+M√©xico,15,¬†La Paz,070,1,2014,1,1
+M√©xico,15,Lerma,051,1,2020,1,1
+M√©xico,15,Luvianos,123,1,2019,1,1
+M√©xico,15,Malinalco,052,1,2019,1,1
+M√©xico,15,Melchor Ocampo,053,1,2020,1,1
+M√©xico,15,Metepec,054,1,2019,1,1
+M√©xico,15,Mexicaltzingo,055,1,2020,1,1
+M√©xico,15,Morelos,056,1,2020,1,1
+M√©xico,15,Naucalpan de Ju√°rez,057,1,2014,1,1
+M√©xico,15,Nextlalpan,059,1,2014,1,1
+M√©xico,15,Nezahualc√≥yotl,058,1,2016,1,1
+M√©xico,15,Nicol√°s Romero,060,1,2019,1,1
+M√©xico,15,Nopaltepec,061,1,2014,1,1
+M√©xico,15,Ocoyoacac,062,1,2020,1,1
+M√©xico,15,¬†Ocuilan,063,1,2020,1,1
+M√©xico,15,Otumba,065,1,2020,1,1
+M√©xico,15,Otzoloapan,066,1,2016,1,1
+M√©xico,15,Otzolotepec,067,1,2019,1,1
+M√©xico,15,Ozumba,068,1,2019,1,1
+M√©xico,15,Papalotla,069,1,2015,1,1
+M√©xico,15,Polotitl√°n,071,1,2020,1,1
+M√©xico,15,Ray√≥n,072,1,2019,1,1
+M√©xico,15,San Antonio la Isla,073,1,2020,1,1
+M√©xico,15,San Felipe del Progreso,074,1,2019,1,1
+M√©xico,15,San Jos√© del Rinc√≥n,124,1,2020,1,1
+M√©xico,15,San Mart√≠n de las Pir√°mides,075,1,2020,1,1
+M√©xico,15,San Mateo Atenco,076,1,2018,1,1
+M√©xico,15,¬†San Sim√≥n de Guerrero,077,1,2018,1,1
+M√©xico,15,Santo Tom√°s,078,1,2020,1,1
+M√©xico,15,Soyaniquilpan de Ju√°rez,079,1,2014,1,1
+M√©xico,15,Sultepec,080,1,2020,1,1
+M√©xico,15,Tec√°mac,081,1,2020,1,1
+M√©xico,15,Tejupilco,082,1,2018,1,1
+M√©xico,15,Temamatla,083,1,2015,1,1
+M√©xico,15,Temascalapa,084,1,2014,1,1
+M√©xico,15,Temascalcingo,085,1,2020,1,1
+M√©xico,15,Temascaltepec,086,1,2016,1,1
+M√©xico,15,Temoaya,087,1,2019,1,1
+M√©xico,15,Tenancingo,088,1,2019,1,1
+M√©xico,15,Tenango del Aire,089,1,2015,1,1
+M√©xico,15,Tenango del Valle,090,1,2016,1,1
+M√©xico,15,Teoloyucan,091,1,2018,1,1
+M√©xico,15,Teotihuac√°n,092,1,2019,1,1
+M√©xico,15,Tepetlaoxtoc,093,1,2020,1,1
+M√©xico,15,Tepetlixpa,094,1,2020,1,1
+M√©xico,15,Tepotzotl√°n,095,1,2019,1,1
+M√©xico,15,Tequixquiac,096,1,2020,1,1
+M√©xico,15,Texcaltitl√°n,097,1,2014,1,1
+M√©xico,15,Texcalyacac,098,1,2019,1,1
+M√©xico,15,Texcoco,099,1,2012,1,1
+M√©xico,15,Tezoyuca,100,1,2017,1,1
+M√©xico,15,Tianguistenco,101,1,2019,1,1
+M√©xico,15,Timilpan,102,1,2020,1,1
+M√©xico,15,Tlalmanalco,103,1,2019,1,1
+M√©xico,15,Tlalnepantla de Baz,104,1,2019,1,1
+M√©xico,15,Tlatlaya,105,1,2014,1,1
+M√©xico,15,Toluca,106,1,2019,1,1
+M√©xico,15,Tonanitla,125,1,2020,1,1
+M√©xico,15,Tonatico,107,1,2020,1,1
+M√©xico,15,Tultepec,108,1,2020,1,1
+M√©xico,15,Tultitl√°n,109,1,2019,1,1
+M√©xico,15,Valle de Bravo,110,1,2020,1,1
+M√©xico,15,Valle de Chalco Solidaridad,122,1,2011,1,1
+M√©xico,15,Villa de Allende,111,1,2019,1,1
+M√©xico,15,Villa del Carb√≥n,112,1,2019,1,1
+M√©xico,15,Villa Guerrero,113,1,2020,1,1
+M√©xico,15,Villa Victoria,114,1,2019,1,1
+M√©xico,15,Xalatlaco,043,1,2020,1,1
+M√©xico,15,¬†Xonacatl√°n,115,1,2019,1,1
+M√©xico,15,Zacazonapan,116,1,2020,1,1
+M√©xico,15,Zacualpan,117,1,2018,1,1
+M√©xico,15,Zinacantepec,118,1,2020,1,1
+M√©xico,15,Zumpahuac√°n,119,1,2018,1,1
+M√©xico,15,Zumpango,120,1,2020,1,1
+ Michoac√°n de Ocampo,16,Angangueo,005,1,2012,1,0
+ Michoac√°n de Ocampo,16,Brise√±as,011,1,2011,1,0
+ Michoac√°n de Ocampo,16,Charapan,021,1,2011,1,0
+ Michoac√°n de Ocampo,16,Chilchota,025,1,2018,1,0
+ Michoac√°n de Ocampo,16,Cojumatl√°n de R√©gules,074,1,2011,1,0
+ Michoac√°n de Ocampo,16,Gabriel Zamora,033,1,2013,1,0
+ Michoac√°n de Ocampo,16,Hidalgo,034,1,2014,1,0
+ Michoac√°n de Ocampo,16,Huandacareo,036,1,2013,1,0
+ Michoac√°n de Ocampo,16,Huaniqueo,037,1,2011,1,0
+ Michoac√°n de Ocampo,16,Huetamo,038,1,2014,1,1
+ Michoac√°n de Ocampo,16,Jacona,043,1,2014,1,0
+ Michoac√°n de Ocampo,16,Ju√°rez,046,1,2011,1,0
+ Michoac√°n de Ocampo,16,Jungapeo,047,1,2011,1,0
+ Michoac√°n de Ocampo,16,La Huacana,035,1,2011,1,0
+ Michoac√°n de Ocampo,16,L√°zaro C√°rdenas,052,1,2011,1,1
+ Michoac√°n de Ocampo,16,Maravat√≠o,050,1,2020,1,0
+ Michoac√°n de Ocampo,16,Morelia,053,1,2001,1,1
+ Michoac√°n de Ocampo,16,P√°tzcuaro,066,1,2008,1,1
+ Michoac√°n de Ocampo,16,Puru√°ndiro,071,1,2011,1,0
+ Michoac√°n de Ocampo,16,Quer√©ndaro,072,1,2011,1,0
+ Michoac√°n de Ocampo,16,San Lucas,077,1,2011,1,0
+ Michoac√°n de Ocampo,16,¬†Tar√≠mbaro,088,1,2014,1,0
+ Michoac√°n de Ocampo,16,Tiquicheo de Nicol√°s Romero,092,1,2013,1,0
+ Michoac√°n de Ocampo,16,Tuxpan,098,1,2011,1,0
+ Michoac√°n de Ocampo,16,Tuzantla,099,1,2013,1,0
+ Michoac√°n de Ocampo,16,Uruapan,102,1,2019,1,1
+ Michoac√°n de Ocampo,16,Zamora,108,1,2013,1,1
+ Michoac√°n de Ocampo,16,Zit√°cuaro,112,1,2014,1,1
+Nayarit,18,Ahuacatl√°n,002,1,2014,0,0
+Nayarit,18,Bah√≠a de Banderas,020,1,2020,1,1
 Nayarit,18,Compostela,004,1,2012,0,1
-Nayarit,18,Ixtl·n del RÌo,006,1,2015,0,0
+Nayarit,18,Ixtl√°n del R√≠o,006,1,2015,0,0
 Nayarit,18,Jala,007,1,2014,1,1
-Nayarit,18,†La Yesca,019,1,2014,1,1
-Nayarit,18,RuÌz,011,1,2015,0,1
+Nayarit,18,¬†La Yesca,019,1,2014,1,1
+Nayarit,18,Ru√≠z,011,1,2015,0,1
 Nayarit,18,San Blas,012,1,2013,0,0
 Nayarit,18,San Pedro Lagunillas,013,1,2014,0,0
-Nayarit,18,Santa MarÌa del Oro,014,1,2013,0,1
+Nayarit,18,Santa Mar√≠a del Oro,014,1,2013,0,1
 Nayarit,18,Santiago Ixcuintla,015,1,2012,0,0
 Nayarit,18,Tepic,017,1,2014,1,1
 Nayarit,18,Tuxpan,018,1,2013,0,1
 Nayarit,18,Xalisco,008,1,2012,1,1
-Puebla ,21,†Acajete,001,1,2012,0,0
+Puebla ,21,¬†Acajete,001,1,2012,0,0
 Puebla ,21,Ajalpan,010,1,2011,0,0
 Puebla ,21,Aquixtla,016,1,2012,0,0
-Puebla ,21,†Atlixco,019,1,2016,1,1
-Puebla ,21,CaÒada Morelos,099,1,2011,1,0
+Puebla ,21,¬†Atlixco,019,1,2016,1,1
+Puebla ,21,Ca√±ada Morelos,099,1,2011,1,0
 Puebla ,21,Chalchicomula de Sesma,045,1,2011,1,0
 Puebla ,21,Chichiquila,050,1,2015,1,0
 Puebla ,21,Chignahuapan,053,1,2014,1,0
@@ -261,63 +261,63 @@ Puebla ,21,Huauchinango,071,1,2005,1,0
 Puebla ,21,Huehuetla,072,1,2012,1,0
 Puebla ,21,Huejotzingo,074,1,2015,1,0
 Puebla ,21,Ixcamilpa de Guerrero,081,1,2012,1,0
-Puebla ,21,Ixtacamaxtitl·n,083,1,2012,1,0
+Puebla ,21,Ixtacamaxtitl√°n,083,1,2012,1,0
 Puebla ,21,Jopala,089,1,2013,1,0
 Puebla ,21,Nealtican,102,1,2015,1,0
 Puebla ,21,Ocoyucan,106,1,2011,1,0
-Puebla ,21,Pahuatl·n,109,1,2013,1,0
+Puebla ,21,Pahuatl√°n,109,1,2013,1,0
 Puebla ,21,Puebla,114,1,2012,1,1
-Puebla ,21,Quimixtl·n,116,1,2012,1,0
-Puebla ,21,San AndrÈs Cholula,119,1,2011,1,0
-Puebla ,21,San Antonio CaÒada,120,1,2013,1,0
-Puebla ,21,San MartÌn Texmelucan,132,1,2018,1,0
+Puebla ,21,Quimixtl√°n,116,1,2012,1,0
+Puebla ,21,San Andr√©s Cholula,119,1,2011,1,0
+Puebla ,21,San Antonio Ca√±ada,120,1,2013,1,0
+Puebla ,21,San Mart√≠n Texmelucan,132,1,2018,1,0
 Puebla ,21,San Miguel Xoxtla,136,1,2012,1,0
 Puebla ,21,San Pedro Cholula,140,1,2015,1,1
-Puebla ,21,Santiago Miahuatl·n,149,1,2011,1,0
-Puebla ,21,Santo Tom·s Hueyotlipan,151,1,2013,0,0
+Puebla ,21,Santiago Miahuatl√°n,149,1,2011,1,0
+Puebla ,21,Santo Tom√°s Hueyotlipan,151,1,2013,0,0
 Puebla ,21,Tecamachalco,154,1,2011,1,0
-Puebla ,21,Tehuac·n,156,1,2012,1,1
+Puebla ,21,Tehuac√°n,156,1,2012,1,1
 Puebla ,21,Tetela de Ocampo,172,1,2012,0,0
-Puebla ,21,Teziutl·n,174,1,2015,1,1
+Puebla ,21,Teziutl√°n,174,1,2015,1,1
 Puebla ,21,Tianguismanalco,175,1,2016,0,0
 Puebla ,21,Tochimilco,188,1,2011,0,0
-Puebla ,21,†Xochiapulco,200,1,2013,0,0
-Puebla ,21,Zacatl·n,208,1,2012,1,1
-Puebla ,21,Zoquitl·n,217,1,2013,0,0
-QuerÈtaro,22,Amealco de Bonfil,001,1,2014,0,0
-QuerÈtaro,22,Corregidora,006,1,2011,1,1
-QuerÈtaro,22,El MarquÈs,011,1,2019,1,1
-QuerÈtaro,22,QuerÈtaro,014,1,2015,1,1
-QuerÈtaro,22,San Juan del RÌo,016,1,2012,1,1
-San Luis PotosÌ,24,Ciudad Valles,013,1,2009,1,1
-San Luis PotosÌ,24,San Luis PotosÌ,028,1,2011,1,1
+Puebla ,21,¬†Xochiapulco,200,1,2013,0,0
+Puebla ,21,Zacatl√°n,208,1,2012,1,1
+Puebla ,21,Zoquitl√°n,217,1,2013,0,0
+Quer√©taro,22,Amealco de Bonfil,001,1,2014,0,0
+Quer√©taro,22,Corregidora,006,1,2011,1,1
+Quer√©taro,22,El Marqu√©s,011,1,2019,1,1
+Quer√©taro,22,Quer√©taro,014,1,2015,1,1
+Quer√©taro,22,San Juan del R√≠o,016,1,2012,1,1
+San Luis Potos√≠,24,Ciudad Valles,013,1,2009,1,1
+San Luis Potos√≠,24,San Luis Potos√≠,028,1,2011,1,1
 Sinaloa,25,Ahome,001,1,2011,1,1
 Sinaloa,25,Angostura,002,1,2012,1,1
-Sinaloa,25,†Culiac·n,006,1,2020,1,1
+Sinaloa,25,¬†Culiac√°n,006,1,2020,1,1
 Sinaloa,25,Elota,008,1,2014,1,1
 Sinaloa,25,Escuinapa,009,1,2011,0,0
 Sinaloa,25,Guasave,011,1,2020,1,1
-Sinaloa,25,Mazatl·n,012,1,2020,1,1
+Sinaloa,25,Mazatl√°n,012,1,2020,1,1
 Sinaloa,25,Navolato,018,1,2011,1,1
 Sinaloa,25,Rosario,014,1,2011,1,1
 Sinaloa,25,Salvador Alvarado,015,1,2011,0,1
 Sinaloa,25,San Ignacio,016,1,2014,0,0
 Sinaloa,25,Sinaloa,017,1,2015,0,0
-Sonora ,26,¡lamos,003,1,2011,1,1
+Sonora ,26,√Ålamos,003,1,2011,1,1
 Sonora ,26,Empalme,025,1,2011,1,1
 Sonora ,26,Etchojoa,026,1,2011,1,1
-Sonora ,26,General Plutarco ElÌas Calles,070,1,2011,1,1
+Sonora ,26,General Plutarco El√≠as Calles,070,1,2011,1,1
 Sonora ,26,Guaymas,029,1,2011,1,1
 Sonora ,26,Hermosillo,030,1,2013,1,1
-Sonora ,26,†Huatabampo,033,1,2011,1,1
+Sonora ,26,¬†Huatabampo,033,1,2011,1,1
 Sonora ,26,Nogales,043,1,2006,1,1
-Sonora ,26,Puerto PeÒasco,048,1,2011,1,1
+Sonora ,26,Puerto Pe√±asco,048,1,2011,1,1
 Sonora ,26,Quiriego,049,1,2011,1,1
-Tabasco ,27,†Balanc·n,001,1,2011,0,0
+Tabasco ,27,¬†Balanc√°n,001,1,2011,0,0
 Tabasco ,27,Centla,003,1,2020,1,1
-Tabasco ,27,†Centro,004,1,2015,1,1
+Tabasco ,27,¬†Centro,004,1,2015,1,1
 Tabasco ,27,Comalcalco,005,1,2020,0,0
-Tabasco ,27,ParaÌso,014,1,2018,0,0
+Tabasco ,27,Para√≠so,014,1,2018,0,0
 Tabasco ,27,Teapa,016,1,2011,0,1
 Tamaulipas,28,Altamira,003,1,2012,1,1
 Tamaulipas,28,Ciudad Madero,009,1,2011,1,1
@@ -327,173 +327,173 @@ Tamaulipas,28,Reynosa,032,1,2006,1,1
 Tamaulipas,28,San Fernando,035,1,2006,1,1
 Tamaulipas,28,Tampico,038,1,2011,1,1
 Tamaulipas,28,Victoria,041,1,2005,1,1
-Yucat·n,31,Dzilam de Bravo,028,1,2015,0,0
-Yucat·n,31,Hunucm·,038,1,2014,0,1
-Yucat·n,31,Ixil,039,1,2013,0,0
-Yucat·n,31,Kinchil,044,1,2018,0,1
-Yucat·n,31,Motul,052,1,2012,1,1
-Yucat·n,31,Peto,058,1,2013,1,1
-Yucat·n,31,Progreso,059,1,2011,0,1
-Yucat·n,31,Tekax,079,1,2014,0,1
-Yucat·n,31,Temax,084,1,2014,0,0
-Yucat·n,31,TemozÛn,085,1,2013,1,1
-Yucat·n,31,Ticul,089,1,2013,1,0
-Yucat·n,31,TizimÌn,096,1,2014,1,1
-Yucat·n,31,Um·n,101,1,2014,1,1
-Yucat·n,31,Valladolid,102,1,2012,1,1
+Yucat√°n,31,Dzilam de Bravo,028,1,2015,0,0
+Yucat√°n,31,Hunucm√°,038,1,2014,0,1
+Yucat√°n,31,Ixil,039,1,2013,0,0
+Yucat√°n,31,Kinchil,044,1,2018,0,1
+Yucat√°n,31,Motul,052,1,2012,1,1
+Yucat√°n,31,Peto,058,1,2013,1,1
+Yucat√°n,31,Progreso,059,1,2011,0,1
+Yucat√°n,31,Tekax,079,1,2014,0,1
+Yucat√°n,31,Temax,084,1,2014,0,0
+Yucat√°n,31,Temoz√≥n,085,1,2013,1,1
+Yucat√°n,31,Ticul,089,1,2013,1,0
+Yucat√°n,31,Tizim√≠n,096,1,2014,1,1
+Yucat√°n,31,Um√°n,101,1,2014,1,1
+Yucat√°n,31,Valladolid,102,1,2012,1,1
 Zacatecas,32,Fresnillo,010,1,2009,1,1
 Zacatecas,32,Guadalupe,017,1,2011,1,1
-Zacatecas,32,†ValparaÌso,049,1,2010,0,0
+Zacatecas,32,¬†Valpara√≠so,049,1,2010,0,0
 Zacatecas,32,Zacatecas,056,1,2007,1,1
 Baja California  ,02,Ensenada,001,1,2011,1,1
-Baja California  ,02,†Mexicali,002,1,2006,0,1
+Baja California  ,02,¬†Mexicali,002,1,2006,0,1
 Baja California  ,02,Playas de Rosarito,005,1,2015,1,1
 Baja California  ,02,Tijuana,004,1,2000,1,1
 Campeche,04,Campeche,002,1,2016,1,1
 Campeche,04,Carmen,003,1,2011,1,1
-Campeche,04,ChampotÛn,004,1,2010,1,1
+Campeche,04,Champot√≥n,004,1,2010,1,1
 Chiapas,07,Acapetahua,003,1,2011,0,0
 Chiapas,07,Arriaga,009,1,2011,1,1
-Chiapas,07,Berrioz·bal,012,1,2011,1,1
-Chiapas,07,Cacahoat·n,015,1,2011,1,0
+Chiapas,07,Berrioz√°bal,012,1,2011,1,1
+Chiapas,07,Cacahoat√°n,015,1,2011,1,0
 Chiapas,07,Chiapa de Corzo,027,1,2019,1,0
-Chiapas,07,ChilÛn,031,1,2020,1,1
+Chiapas,07,Chil√≥n,031,1,2020,1,1
 Chiapas,07,Cintalapa,017,1,2011,1,1
-Chiapas,07,Comit·n de DomÌnguez,019,1,2011,1,1
+Chiapas,07,Comit√°n de Dom√≠nguez,019,1,2011,1,1
 Chiapas,07,Huixtla,040,1,2011,1,1
 Chiapas,07,La Concordia,020,1,2011,0,1
 Chiapas,07,Las Margaritas,052,1,2011,1,1
-Chiapas,07,†Mapastepec,051,1,2011,1,1
-Chiapas,07,Mazat·n,054,1,2011,0,1
+Chiapas,07,¬†Mapastepec,051,1,2011,1,1
+Chiapas,07,Mazat√°n,054,1,2011,0,1
 Chiapas,07,Motozintla,057,1,2011,0,0
 Chiapas,07,Ocozocoautla de Espinosa,061,1,2011,1,1
 Chiapas,07,Pijijiapan,069,1,2011,0,1
-Chiapas,07,San CristÛbal de las Casas,078,1,2011,1,1
+Chiapas,07,San Crist√≥bal de las Casas,078,1,2011,1,1
 Chiapas,07,Suchiate,087,1,2011,1,1
 Chiapas,07,Tapachula,089,1,2011,0,0
 Chiapas,07,Teopisca,094,1,2011,0,0
-Chiapas,07,Tonal·,097,1,2011,1,1
-Chiapas,07,Tuxtla GutiÈrrez,101,1,2011,1,1
-Jalisco,14,†Ameca,006,1,2011,1,1
-Jalisco,14,Autl·n de Navarro,015,1,2016,1,1
+Chiapas,07,Tonal√°,097,1,2011,1,1
+Chiapas,07,Tuxtla Guti√©rrez,101,1,2011,1,1
+Jalisco,14,¬†Ameca,006,1,2011,1,1
+Jalisco,14,Autl√°n de Navarro,015,1,2016,1,1
 Jalisco,14,Chapala,030,1,2011,0,1
-Jalisco,14,Cihuatl·n,022,1,2016,1,1
+Jalisco,14,Cihuatl√°n,022,1,2016,1,1
 Jalisco,14,Guadalajara,039,1,2011,1,1
 Jalisco,14,Lagos de Moreno,053,1,2010,1,1
 Jalisco,14,San Pedro Tlaquepaque,098,1,2005,1,1
-Jalisco,14,Tlajomulco de Z˙Òiga,097,1,2008,1,1
-Jalisco,14,Tonal·,101,1,2011,1,1
+Jalisco,14,Tlajomulco de Z√∫√±iga,097,1,2008,1,1
+Jalisco,14,Tonal√°,101,1,2011,1,1
 Jalisco,14,Zapopan,120,1,2009,1,1
-Jalisco,14,Zapotl·n el Grande,023,1,2015,1,1
+Jalisco,14,Zapotl√°n el Grande,023,1,2015,1,1
 Morelos,17,Cuautla,006,1,2011,0,1
-Morelos,17,†Cuernavaca,007,1,2019,1,1
+Morelos,17,¬†Cuernavaca,007,1,2019,1,1
 Morelos,17,Huitzilac,009,1,2018,0,0
 Morelos,17,Jiutepec,011,1,2011,1,1
 Morelos,17,Ocuituco,016,1,2011,0,0
 Morelos,17,Temixco,018,1,2009,1,1
-Morelos,17,†Temoac,033,1,2012,0,0
+Morelos,17,¬†Temoac,033,1,2012,0,0
 Morelos,17,Tetecala,021,1,2011,0,1
-Morelos,17,Tetela del Volc·n,022,1,2012,0,1
-Morelos,17,Tlaltizap·n de Zapata,024,1,2011,0,1
+Morelos,17,Tetela del Volc√°n,022,1,2012,0,1
+Morelos,17,Tlaltizap√°n de Zapata,024,1,2011,0,1
 Morelos,17,Tlayacapan,026,1,2011,0,0
-Morelos,17,†Totolapan,027,1,2015,0,0
+Morelos,17,¬†Totolapan,027,1,2015,0,0
 Morelos,17,Yautepec,029,1,2011,0,1
-Nuevo LeÛn,19,Apodaca,006,1,2020,1,1
-Nuevo LeÛn,19,†Lampazos de Naranjo,032,1,2011,0,1
-Nuevo LeÛn,19,Monterrey,039,1,2005,1,1
-Nuevo LeÛn,19,San Nicol·s de los Garza,046,1,2016,1,1
-Nuevo LeÛn,19,San Pedro Garza GarcÌa,019,1,2019,1,1
-Nuevo LeÛn,19,†Santa Catarina,048,1,2018,1,1
-Oaxaca,20,Acatl·n de PÈrez Figueroa,002,1,2011,1,1
-Oaxaca,20,†Candelaria Loxicha,012,1,2015,1,1
+Nuevo Le√≥n,19,Apodaca,006,1,2020,1,1
+Nuevo Le√≥n,19,¬†Lampazos de Naranjo,032,1,2011,0,1
+Nuevo Le√≥n,19,Monterrey,039,1,2005,1,1
+Nuevo Le√≥n,19,San Nicol√°s de los Garza,046,1,2016,1,1
+Nuevo Le√≥n,19,San Pedro Garza Garc√≠a,019,1,2019,1,1
+Nuevo Le√≥n,19,¬†Santa Catarina,048,1,2018,1,1
+Oaxaca,20,Acatl√°n de P√©rez Figueroa,002,1,2011,1,1
+Oaxaca,20,¬†Candelaria Loxicha,012,1,2015,1,1
 Oaxaca,20,Ciudad Ixtepec,014,1,2013,0,0
-Oaxaca,20,Heroica Ciudad de Huajuapan de LeÛn,039,1,2020,1,1
-Oaxaca,20,Ixtl·n de Ju·rez,042,1,2013,0,0
-Oaxaca,20,Juchit·n de Zaragoza,043,1,2011,1,1
+Oaxaca,20,Heroica Ciudad de Huajuapan de Le√≥n,039,1,2020,1,1
+Oaxaca,20,Ixtl√°n de Ju√°rez,042,1,2013,0,0
+Oaxaca,20,Juchit√°n de Zaragoza,043,1,2011,1,1
 Oaxaca,20,Loma Bonita,044,1,2012,0,1
-Oaxaca,20,†Miahuatl·n de Porfirio DÌaz,059,1,2012,0,1
-Oaxaca,20,Oaxaca de Ju·rez,067,1,2011,1,1
-Oaxaca,20,Ocotl·n de Morelos,068,1,2014,1,1
+Oaxaca,20,¬†Miahuatl√°n de Porfirio D√≠az,059,1,2012,0,1
+Oaxaca,20,Oaxaca de Ju√°rez,067,1,2011,1,1
+Oaxaca,20,Ocotl√°n de Morelos,068,1,2014,1,1
 Oaxaca,20,Salina Cruz,079,1,2011,1,1
-Oaxaca,20,San AgustÌn Yatareni,087,1,2014,0,1
+Oaxaca,20,San Agust√≠n Yatareni,087,1,2014,0,1
 Oaxaca,20,San Antonino Castillo Velasco,103,1,2016,0,0
 Oaxaca,20,San Blas Atempa,124,1,2014,1,1
 Oaxaca,20,San Jacinto Amilpas,157,1,2011,1,1
-Oaxaca,20,San JosÈ Chiltepec,166,1,2011,0,0
+Oaxaca,20,San Jos√© Chiltepec,166,1,2011,0,0
 Oaxaca,20,San Juan Bautista Tuxtepec,184,1,2011,0,0
 Oaxaca,20,San Juan Quiotepec,214,1,2011,0,1
 Oaxaca,20,San Lorenzo Cacaotepec,227,1,2015,0,0
 Oaxaca,20,San Pablo Etla,293,1,2014,0,0
-Oaxaca,20,†San Pedro Mixtepec,318,1,2011,0,1
+Oaxaca,20,¬†San Pedro Mixtepec,318,1,2011,0,1
 Oaxaca,20,San Pedro Pochutla,324,1,2012,0,1
-Oaxaca,20,San Sebasti·n Tutla,350,1,2013,0,0
-Oaxaca,20,Santa Cruz Xoxocotl·n,385,1,2011,0,1
-Oaxaca,20,Santa LucÌa del Camino,390,1,2015,0,1
-Oaxaca,20,Santa MarÌa Atzompa,399,1,2004,0,1
-Oaxaca,20,Santa MarÌa Colotepec,401,1,2012,0,0
-Oaxaca,20,Santa MarÌa del Tule,409,1,2013,0,1
-Oaxaca,20,Santa MarÌa Huatulco,413,1,2012,1,1
-Oaxaca,20,Santa MarÌa Petapa,427,1,2013,0,0
-Oaxaca,20,Santa MarÌa Tlahuitoltepec,437,1,2011,0,0
-Oaxaca,20,Santa MarÌa Xadani,441,1,2014,0,1
+Oaxaca,20,San Sebasti√°n Tutla,350,1,2013,0,0
+Oaxaca,20,Santa Cruz Xoxocotl√°n,385,1,2011,0,1
+Oaxaca,20,Santa Luc√≠a del Camino,390,1,2015,0,1
+Oaxaca,20,Santa Mar√≠a Atzompa,399,1,2004,0,1
+Oaxaca,20,Santa Mar√≠a Colotepec,401,1,2012,0,0
+Oaxaca,20,Santa Mar√≠a del Tule,409,1,2013,0,1
+Oaxaca,20,Santa Mar√≠a Huatulco,413,1,2012,1,1
+Oaxaca,20,Santa Mar√≠a Petapa,427,1,2013,0,0
+Oaxaca,20,Santa Mar√≠a Tlahuitoltepec,437,1,2011,0,0
+Oaxaca,20,Santa Mar√≠a Xadani,441,1,2014,0,1
 Oaxaca,20,Santiago Pinotepa Nacional,482,1,2012,0,1
 Oaxaca,20,Santo Domingo Tehuantepec,515,1,2004,1,1
 Oaxaca,20,Santo Domingo Tomaltepec,519,1,2013,0,0
-Oaxaca,20,Silacayo·pam,537,1,2012,0,0
+Oaxaca,20,Silacayo√°pam,537,1,2012,0,0
 Oaxaca,20,Tlalixtac de Cabrera,553,1,2014,0,1
-Quintana Roo,23,Benito Ju·rez,005,1,2013,1,1
+Quintana Roo,23,Benito Ju√°rez,005,1,2013,1,1
 Quintana Roo,23,Cozumel,001,1,2011,1,1
 Quintana Roo,23,Felipe Carrillo Puerto,002,1,2006,1,1
-Quintana Roo,23,†Isla Mujeres,003,1,2011,0,0
-Quintana Roo,23,OthÛn P. Blanco,004,1,2011,0,0
+Quintana Roo,23,¬†Isla Mujeres,003,1,2011,0,0
+Quintana Roo,23,Oth√≥n P. Blanco,004,1,2011,0,0
 Quintana Roo,23,Puerto Morelos,011,1,2020,1,1
 Quintana Roo,23,Solidaridad,008,1,2021,1,1
 Quintana Roo,23,Tulum,009,1,2015,1,1
 Tlaxcala,29,Apizaco,005,1,2011,1,1
 Tlaxcala,29,Atlangatepec,003,1,2016,1,1
 Tlaxcala,29,Huamantla,013,1,2016,0,1
-Tlaxcala,29,NatÌvitas,023,1,2015,0,1
-Tlaxcala,29,†Papalotla de XicohtÈncatl,041,1,2015,0,0
-Tlaxcala,29,†San Pablo del Monte,025,1,2015,0,0
-Tlaxcala,29,SanctÛrum de L·zaro C·rdenas,020,1,2011,0,1
+Tlaxcala,29,Nat√≠vitas,023,1,2015,0,1
+Tlaxcala,29,¬†Papalotla de Xicoht√©ncatl,041,1,2015,0,0
+Tlaxcala,29,¬†San Pablo del Monte,025,1,2015,0,0
+Tlaxcala,29,Sanct√≥rum de L√°zaro C√°rdenas,020,1,2011,0,1
 Tlaxcala,29,Tlaxcala,033,1,2018,1,1
 Tlaxcala,29,Xicohtzinco,042,1,2014,0,1
 Tlaxcala,29,Zacatelco,044,1,2018,0,0
  Veracruz de Ignacio de la Llave,30,Agua Dulce,204,1,2011,0,1
- Veracruz de Ignacio de la Llave,30,†¡lamo Temapache,160,1,2011,0,1
- Veracruz de Ignacio de la Llave,30,Alpatl·huac,008,1,2011,0,0
+ Veracruz de Ignacio de la Llave,30,¬†√Ålamo Temapache,160,1,2011,0,1
+ Veracruz de Ignacio de la Llave,30,Alpatl√°huac,008,1,2011,0,0
  Veracruz de Ignacio de la Llave,30,Alvarado,011,1,2016,0,0
- Veracruz de Ignacio de la Llave,30,Amatl·n de los Reyes,014,1,2011,0,0
+ Veracruz de Ignacio de la Llave,30,Amatl√°n de los Reyes,014,1,2011,0,0
  Veracruz de Ignacio de la Llave,30,Angel R. Cabada,015,1,2011,0,1
  Veracruz de Ignacio de la Llave,30,Atzacan,022,1,2011,0,1
  Veracruz de Ignacio de la Llave,30,Ayahualulco,025,1,2011,0,0
- Veracruz de Ignacio de la Llave,30,Boca del RÌo,028,1,2006,1,1
+ Veracruz de Ignacio de la Llave,30,Boca del R√≠o,028,1,2006,1,1
  Veracruz de Ignacio de la Llave,30,Chiconquiaco,057,1,2020,0,0
- Veracruz de Ignacio de la Llave,30,Chocam·n,062,1,2011,1,1
+ Veracruz de Ignacio de la Llave,30,Chocam√°n,062,1,2011,1,1
  Veracruz de Ignacio de la Llave,30,Coatepec,038,1,2011,1,1
  Veracruz de Ignacio de la Llave,30,Coatzacoalcos,039,1,2011,1,1
  Veracruz de Ignacio de la Llave,30,Coatzintla,040,1,2008,0,0
- Veracruz de Ignacio de la Llave,30,CÛrdoba,044,1,2020,1,1
+ Veracruz de Ignacio de la Llave,30,C√≥rdoba,044,1,2020,1,1
  Veracruz de Ignacio de la Llave,30,Coscomatepec,047,1,2011,1,1
- Veracruz de Ignacio de la Llave,30,Huiloapan de CuauhtÈmoc,074,1,2018,1,1
- Veracruz de Ignacio de la Llave,30,Ixhuac·n de los Reyes,079,1,2011,0,0
- Veracruz de Ignacio de la Llave,30,†La Antigua,016,1,2011,1,1
- Veracruz de Ignacio de la Llave,30,†La Perla,127,1,2011,0,1
+ Veracruz de Ignacio de la Llave,30,Huiloapan de Cuauht√©moc,074,1,2018,1,1
+ Veracruz de Ignacio de la Llave,30,Ixhuac√°n de los Reyes,079,1,2011,0,0
+ Veracruz de Ignacio de la Llave,30,¬†La Antigua,016,1,2011,1,1
+ Veracruz de Ignacio de la Llave,30,¬†La Perla,127,1,2011,0,1
  Veracruz de Ignacio de la Llave,30,Las Choapas,061,1,2009,0,0
  Veracruz de Ignacio de la Llave,30,Lerdo de Tejada,097,1,2011,1,1
- Veracruz de Ignacio de la Llave,30,MartÌnez de la Torre,102,1,2014,0,1
- Veracruz de Ignacio de la Llave,30,Minatitl·n,108,1,2009,0,1
+ Veracruz de Ignacio de la Llave,30,Mart√≠nez de la Torre,102,1,2014,0,1
+ Veracruz de Ignacio de la Llave,30,Minatitl√°n,108,1,2009,0,1
  Veracruz de Ignacio de la Llave,30,Nogales,115,1,2011,1,1
  Veracruz de Ignacio de la Llave,30,Oteapan,120,1,2011,0,0
- Veracruz de Ignacio de la Llave,30,P·nuco,123,1,2011,0,1
+ Veracruz de Ignacio de la Llave,30,P√°nuco,123,1,2011,0,1
  Veracruz de Ignacio de la Llave,30,Poza Rica de Hidalgo,131,1,2020,1,1
- Veracruz de Ignacio de la Llave,30,RÌo Blanco,138,1,2011,1,1
- Veracruz de Ignacio de la Llave,30,San AndrÈs Tuxtla,141,1,2008,1,1
+ Veracruz de Ignacio de la Llave,30,R√≠o Blanco,138,1,2011,1,1
+ Veracruz de Ignacio de la Llave,30,San Andr√©s Tuxtla,141,1,2008,1,1
  Veracruz de Ignacio de la Llave,30,Tempoal,161,1,2011,1,1
  Veracruz de Ignacio de la Llave,30,Tlacotalpan,178,1,2013,0,1
  Veracruz de Ignacio de la Llave,30,Tlapacoyan,183,1,2009,0,1
  Veracruz de Ignacio de la Llave,30,Vega de Alatorre,192,1,2011,0,0
  Veracruz de Ignacio de la Llave,30,Veracruz,193,1,2006,1,1
- Veracruz de Ignacio de la Llave,30,†Xalapa,087,1,2009,1,1
- Veracruz de Ignacio de la Llave,30,†Xico,092,1,2011,0,1
- Veracruz de Ignacio de la Llave,30,†Zongolica,201,1,2017,0,1
+ Veracruz de Ignacio de la Llave,30,¬†Xalapa,087,1,2009,1,1
+ Veracruz de Ignacio de la Llave,30,¬†Xico,092,1,2011,0,1
+ Veracruz de Ignacio de la Llave,30,¬†Zongolica,201,1,2017,0,1
