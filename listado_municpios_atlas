@@ -1,0 +1,506 @@
+ESTADO, MUNICIPIO, ANIO_ATLAS
+Aguascalientes, Aguascalientes, 2006
+Aguascalientes, El Llano, 2012
+Aguascalientes, Rincón de Romos, 2012
+Aguascalientes, San Francisco de los Romo, 2012
+Baja California, Ensenada, 2011
+Baja California, Mexicali, 2006
+Baja California, Playas de Rosarito, 2015
+Baja California, Tijuana, 2000
+Baja California Sur, Comondú, 2011
+Baja California Sur, La Paz, 2012
+Baja California Sur, Los Cabos, 2022
+Baja California Sur, Mulegé, 2011
+Campeche, Campeche, 2016
+Campeche, Carmen, 2011
+Campeche, Champotón, 2010
+Chiapas, Acapetahua, 2011
+Chiapas, Arriaga, 2011
+Chiapas, Berriozábal, 2011
+Chiapas, Cacahoatán, 2011
+Chiapas, Chiapa de Corzo, 2019
+Chiapas, Chilón, 2020
+Chiapas, Cintalapa, 2011
+Chiapas, Comitán de Domínguez, 2011
+Chiapas, Huixtla, 2011
+Chiapas, La Concordia, 2011
+Chiapas, Las Margaritas, 2011
+Chiapas, Mapastepec, 2011
+Chiapas, Mazatán, 2011
+Chiapas, Motozintla, 2011
+Chiapas, Ocozocoautla de Espinosa, 2011
+Chiapas, Pijijiapan, 2011
+Chiapas, San Cristóbal de las Casas, 2011
+Chiapas, Suchiate, 2011
+Chiapas, Tapachula, 2011
+Chiapas, Teopisca, 2011
+Chiapas, Tonalá, 2011
+Chiapas, Tuxtla Gutiérrez, 2011
+Chihuahua, Aquiles Serdán, 2015
+Chihuahua, Camargo, 2015
+Chihuahua, Chihuahua, 2014
+Chihuahua, Cuauhtémoc, 2014
+Chihuahua, Delicias, 2014
+Chihuahua, Hidalgo del Parral, 2011
+Chihuahua, Juárez, 2010
+Chihuahua, Ojinaga, 2011
+Ciudad de México, Álvaro Obregón, 2011
+Ciudad de México, Azcapotzalco, 2017
+Ciudad de México, Benito Juárez, 2012
+Ciudad de México, Coyoacán, 2015
+Ciudad de México, Cuajimalpa de Morelos, 2013
+Ciudad de México, Gustavo A. Madero, 2014
+Ciudad de México, Iztacalco, 2016
+Ciudad de México, Iztapalapa, 2019
+Ciudad de México, La Magdalena Contreras, 2011
+Ciudad de México, Miguel Hidalgo, 2020
+Ciudad de México, Milpa Alta, 2018
+Ciudad de México, Tlalpan, 2011
+Ciudad de México, Xochimilco, 2015
+Coahuila de Zaragoza, Matamoros, 2015
+Coahuila de Zaragoza, Múzquiz, 2012
+Coahuila de Zaragoza, Nadadores, 2012
+Coahuila de Zaragoza, Saltillo, 2014
+Coahuila de Zaragoza, Torreón, 2020
+Colima, Armería, 2013
+Colima, Colima, 2014
+Colima, Coquimatlán, 2013
+Colima, Ixtlahuacán, 2015
+Colima, Manzanillo, 2012
+Colima, Minatitlán, 2015
+Colima, Tecomán, 2011
+Colima, Villa de Álvarez, 2015
+Durango, Durango, 2012
+Durango, Gómez Palacio, 2014
+Durango, Guadalupe Victoria, 2014
+Durango, Lerdo, 2014
+Guanajuato, Celaya, 2020
+Guanajuato, Irapuato, 2013
+Guanajuato, León, 2006
+Guanajuato, Moroleón, 2021
+Guanajuato, San Miguel de Allende, 2013
+Guerrero, Acapulco de Juárez, 2021
+Guerrero, Chilpancingo de los Bravo, 2016
+Guerrero, Zihuatanejo de Azueta, 2011
+Hidalgo, Actopan, 2013
+Hidalgo, Almoloya, 2015
+Hidalgo, Atitalaquia, 2020
+Hidalgo, Atotonilco el Grande, 2015
+Hidalgo, Chilcuautla, 2016
+Hidalgo, Cuautepec de Hinojosa, 2012
+Hidalgo, El Arenal, 2020
+Hidalgo, Huasca de Ocampo, 2015
+Hidalgo, Huehuetla, 2020
+Hidalgo, Huejutla de Reyes, 2013
+Hidalgo, Mineral de la Reforma, 2018
+Hidalgo, Pachuca de Soto, 2022
+Hidalgo, San Agustín Tlaxiaca, 2014
+Hidalgo, Tenango de Doria, 2013
+Hidalgo, Tepehuacán de Guerrero, 2022
+Hidalgo, Tepeji del Río de Ocampo, 2014
+Hidalgo, Tepetitlán, 2020
+Hidalgo, Tezontepec de Aldama, 2014
+Hidalgo, Tizayuca, 2020
+Hidalgo, Tlahuelilpan, 2020
+Hidalgo, Tlanchinol, 2020
+Hidalgo, Tlaxcoapan, 2011
+Hidalgo, Tula de Allende, 2020
+Hidalgo, Tulancingo de Bravo, 2017
+Hidalgo, Villa de Tezontepec, 2013
+Hidalgo, Xochiatipan, 2020
+Hidalgo, Zapotlán de Juárez, 2014
+Hidalgo, Zimapán, 2016
+Jalisco, Ameca, 2011
+Jalisco, Autlán de Navarro, 2016
+Jalisco, Chapala, 2011
+Jalisco, Cihuatlán, 2016
+Jalisco, Guadalajara, 2011
+Jalisco, Lagos de Moreno, 2010
+Jalisco, San Pedro Tlaquepaque, 2005
+Jalisco, Tepatitlán de Morelos, 2021
+Jalisco, Tlajomulco de Zúñiga, 2008
+Jalisco, Tonalá, 2012
+Jalisco, Zapopan, 2009
+Jalisco, Zapotlán el Grande, 2015
+México, Acambay de Ruíz Castañeda, 2019
+México, Acolman, 2012
+México, Aculco, 2020
+México, Almoloya de Alquisiras, 2020
+México, Almoloya de Juárez, 2019
+México, Almoloya del Río, 2019
+México, Amanalco, 2019
+México, Amatepec, 2020
+México, Amecameca, 2013
+México, Apaxco, 2020
+México, Atenco, 2016
+México, Atizapán, 2020
+México, Atizapán de Zaragoza, 2020
+México, Atlacomulco, 2020
+México, Atlautla, 2020
+México, Axapusco, 2020
+México, Ayapango, 2014
+México, Calimaya, 2019
+México, Capulhuac, 2019
+México, Chalco, 2019
+México, Chapa de Mota, 2020
+México, Chapultepec, 2019
+México, Chiautla, 2015
+México, Chicoloapan, 2011
+México, Chiconcuac, 2014
+México, Chimalhuacán, 2019
+México, Coacalco de Berriozábal, 2020
+México, Coatepec Harinas, 2015
+México, Cocotitlán, 2019
+México, Coyotepec, 2018
+México, Cuautitlán, 2010
+México, Cuautitlán Izcalli, 2019
+México, Donato Guerra, 2020
+México, Ecatepec de Morelos, 2019
+México, Ecatzingo, 2019
+México, El Oro, 2020
+México, Huehuetoca, 2019
+México, Hueypoxtla, 2020
+México, Huixquilucan, 2017
+México, Isidro Fabela, 2020
+México, Ixtapaluca, 2020
+México, Ixtapan de la Sal, 2019
+México, Ixtapan del Oro, 2017
+México, Ixtlahuaca, 2019
+México, Jaltenco, 2020
+México, Jilotepec, 2019
+México, Jilotzingo, 2019
+México, Jiquipilco, 2019
+México, Jocotitlán, 2019
+México, Joquicingo, 2020
+México, Juchitepec, 2019
+México, La Paz, 2014
+México, Lerma, 2020
+México, Luvianos, 2019
+México, Malinalco, 2019
+México, Melchor Ocampo, 2020
+México, Metepec, 2019
+México, Mexicaltzingo, 2020
+México, Morelos, 2020
+México, Naucalpan de Juárez, 2014
+México, Nextlalpan, 2014
+México, Nezahualcóyotl, 2016
+México, Nicolás Romero, 2019
+México, Nopaltepec, 2014
+México, Ocoyoacac, 2020
+México, Ocuilan, 2020
+México, Otumba, 2020
+México, Otzoloapan, 2016
+México, Otzolotepec, 2019
+México, Ozumba, 2019
+México, Papalotla, 2015
+México, Polotitlán, 2020
+México, Rayón, 2019
+México, San Antonio la Isla, 2020
+México, San Felipe del Progreso, 2019
+México, San José del Rincón, 2020
+México, San Martín de las Pirámides, 2020
+México, San Mateo Atenco, 2018
+México, San Simón de Guerrero, 2018
+México, Santo Tomás, 2020
+México, Soyaniquilpan de Juárez, 2014
+México, Sultepec, 2020
+México, Tecámac, 2020
+México, Tejupilco, 2018
+México, Temamatla, 2015
+México, Temascalapa, 2014
+México, Temascalcingo, 2020
+México, Temascaltepec, 2016
+México, Temoaya, 2019
+México, Tenancingo, 2019
+México, Tenango del Aire, 2015
+México, Tenango del Valle, 2016
+México, Teoloyucan, 2018
+México, Teotihuacán, 2019
+México, Tepetlaoxtoc, 2020
+México, Tepetlixpa, 2020
+México, Tepotzotlán, 2019
+México, Tequixquiac, 2020
+México, Texcaltitlán, 2014
+México, Texcalyacac, 2019
+México, Texcoco, 2012
+México, Tezoyuca, 2017
+México, Tianguistenco, 2019
+México, Timilpan, 2020
+México, Tlalmanalco, 2019
+México, Tlalnepantla de Baz, 2019
+México, Tlatlaya, 2014
+México, Toluca, 2022
+México, Tonanitla, 2020
+México, Tonatico, 2020
+México, Tultepec, 2020
+México, Tultitlán, 2019
+México, Valle de Bravo, 2020
+México, Valle de Chalco Solidaridad, 2011
+México, Villa de Allende, 2019
+México, Villa del Carbón, 2019
+México, Villa Guerrero, 2020
+México, Villa Victoria, 2019
+México, Xalatlaco, 2020
+México, Xonacatlán, 2019
+México, Zacazonapan, 2020
+México, Zacualpan, 2018
+México, Zinacantepec, 2020
+México, Zumpahuacán, 2018
+México, Zumpango, 2020
+Michoacán de Ocampo, Angangueo, 2012
+Michoacán de Ocampo, Briseñas, 2011
+Michoacán de Ocampo, Charapan, 2011
+Michoacán de Ocampo, Chilchota, 2018
+Michoacán de Ocampo, Chinicuila, 2022
+Michoacán de Ocampo, Cojumatlán de Régules, 2011
+Michoacán de Ocampo, Gabriel Zamora, 2013
+Michoacán de Ocampo, Hidalgo, 2014
+Michoacán de Ocampo, Huandacareo, 2013
+Michoacán de Ocampo, Huaniqueo, 2011
+Michoacán de Ocampo, Huetamo, 2014
+Michoacán de Ocampo, Jacona, 2014
+Michoacán de Ocampo, Juárez, 2011
+Michoacán de Ocampo, Jungapeo, 2011
+Michoacán de Ocampo, La Huacana, 2011
+Michoacán de Ocampo, Lázaro Cárdenas, 2011
+Michoacán de Ocampo, Maravatío, 2020
+Michoacán de Ocampo, Morelia, 2001
+Michoacán de Ocampo, Pátzcuaro, 2008
+Michoacán de Ocampo, Puruándiro, 2011
+Michoacán de Ocampo, Queréndaro, 2011
+Michoacán de Ocampo, San Lucas, 2011
+Michoacán de Ocampo, Tanhuato, 2022
+Michoacán de Ocampo, Tarímbaro, 2014
+Michoacán de Ocampo, Tiquicheo de Nicolás Romero, 2013
+Michoacán de Ocampo, Tuxpan, 2011
+Michoacán de Ocampo, Tuzantla, 2013
+Michoacán de Ocampo, Uruapan, 2019
+Michoacán de Ocampo, Zamora, 2013
+Michoacán de Ocampo, Zitácuaro, 2014
+Morelos, Cuautla, 2011
+Morelos, Cuernavaca, 2019
+Morelos, Huitzilac, 2018
+Morelos, Jiutepec, 2011
+Morelos, Ocuituco, 2011
+Morelos, Temixco, 2009
+Morelos, Temoac, 2012
+Morelos, Tetecala, 2011
+Morelos, Tetela del Volcán, 2012
+Morelos, Tlaltizapán de Zapata, 2011
+Morelos, Tlayacapan, 2011
+Morelos, Totolapan, 2015
+Morelos, Yautepec, 2011
+Nayarit, Ahuacatlán, 2014
+Nayarit, Bahía de Banderas, 2020
+Nayarit, Compostela, 2012
+Nayarit, Ixtlán del Río, 2015
+Nayarit, Jala, 2014
+Nayarit, La Yesca, 2014
+Nayarit, Ruíz, 2015
+Nayarit, San Blas, 2013
+Nayarit, San Pedro Lagunillas, 2014
+Nayarit, Santa María del Oro, 2013
+Nayarit, Santiago Ixcuintla, 2012
+Nayarit, Tepic, 2014
+Nayarit, Tuxpan, 2013
+Nayarit, Xalisco, 2012
+Nuevo León, Apodaca, 2020
+Nuevo León, García, 2018
+Nuevo León, Lampazos de Naranjo, 2011
+Nuevo León, Monterrey, 2005
+Nuevo León, San Nicolás de los Garza, 2016
+Nuevo León, San Pedro Garza García, 2019
+Nuevo León, Santa Catarina, 2018
+Oaxaca, Acatlán de Pérez Figueroa, 2011
+Oaxaca, Candelaria Loxicha, 2015
+Oaxaca, Ciudad Ixtepec, 2013
+Oaxaca, Heroica Ciudad de Huajuapan de León, 2020
+Oaxaca, Ixtlán de Juárez, 2013
+Oaxaca, Juchitán de Zaragoza, 2011
+Oaxaca, Loma Bonita, 2012
+Oaxaca, Miahuatlán de Porfirio Díaz, 2012
+Oaxaca, Oaxaca de Juárez, 2011
+Oaxaca, Ocotlán de Morelos, 2014
+Oaxaca, Salina Cruz, 2011
+Oaxaca, San Agustín Yatareni, 2014
+Oaxaca, San Antonino Castillo Velasco, 2016
+Oaxaca, San Blas Atempa, 2014
+Oaxaca, San Jacinto Amilpas, 2012
+Oaxaca, San José Chiltepec, 2011
+Oaxaca, San Juan Bautista Tuxtepec, 2011
+Oaxaca, San Juan Quiotepec, 2011
+Oaxaca, San Lorenzo Cacaotepec, 2015
+Oaxaca, San Pablo Etla, 2014
+Oaxaca, San Pedro Mixtepec, 2012
+Oaxaca, San Pedro Pochutla, 2012
+Oaxaca, San Sebastián Tutla, 2013
+Oaxaca, Santa Cruz Xoxocotlán, 2011
+Oaxaca, Santa Lucía del Camino, 2015
+Oaxaca, Santa María Atzompa, 2004
+Oaxaca, Santa María Colotepec, 2012
+Oaxaca, Santa María del Tule, 2013
+Oaxaca, Santa María Huatulco, 2012
+Oaxaca, Santa María Petapa, 2013
+Oaxaca, Santa María Tlahuitoltepec, 2011
+Oaxaca, Santa María Xadani, 2014
+Oaxaca, Santiago Pinotepa Nacional, 2012
+Oaxaca, Santo Domingo Tehuantepec, 2004
+Oaxaca, Santo Domingo Tomaltepec, 2013
+Oaxaca, Silacayoápam, 2012
+Oaxaca, Tlalixtac de Cabrera, 2014
+Puebla, Acajete, 2012
+Puebla, Ajalpan, 2011
+Puebla, Aquixtla, 2012
+Puebla, Atlixco, 2016
+Puebla, Cañada Morelos, 2011
+Puebla, Chalchicomula de Sesma, 2011
+Puebla, Chichiquila, 2015
+Puebla, Chignahuapan, 2014
+Puebla, Cuautlancingo, 2015
+Puebla, Esperanza, 2011
+Puebla, Guadalupe Victoria, 2012
+Puebla, Huauchinango, 2005
+Puebla, Huehuetla, 2012
+Puebla, Huejotzingo, 2015
+Puebla, Ixcamilpa de Guerrero, 2012
+Puebla, Ixtacamaxtitlán, 2012
+Puebla, Jopala, 2013
+Puebla, Nealtican, 2015
+Puebla, Ocoyucan, 2011
+Puebla, Pahuatlán, 2013
+Puebla, Puebla, 2021
+Puebla, Quimixtlán, 2012
+Puebla, San Andrés Cholula, 2011
+Puebla, San Antonio Cañada, 2013
+Puebla, San Martín Texmelucan, 2018
+Puebla, San Miguel Xoxtla, 2012
+Puebla, San Pedro Cholula, 2015
+Puebla, Santiago Miahuatlán, 2011
+Puebla, Santo Tomás Hueyotlipan, 2013
+Puebla, Tecamachalco, 2011
+Puebla, Tehuacán, 2012
+Puebla, Tetela de Ocampo, 2012
+Puebla, Teziutlán, 2015
+Puebla, Tianguismanalco, 2016
+Puebla, Tochimilco, 2011
+Puebla, Xochiapulco, 2013
+Puebla, Zacatlán, 2012
+Puebla, Zoquitlán, 2013
+Querétaro, Amealco de Bonfil, 2014
+Querétaro, Corregidora, 2011
+Querétaro, El Marqués, 2019
+Querétaro, Querétaro, 2015
+Querétaro, San Juan del Río, 2012
+Quintana Roo, Benito Juárez, 2013
+Quintana Roo, Cozumel, 2011
+Quintana Roo, Felipe Carrillo Puerto, 2006
+Quintana Roo, Isla Mujeres, 2011
+Quintana Roo, Othón P. Blanco, 2011
+Quintana Roo, Puerto Morelos, 2020
+Quintana Roo, Solidaridad, 2021
+Quintana Roo, Tulum, 2015
+San Luis Potosí, Ciudad Valles, 2009
+San Luis Potosí, San Luis Potosí, 2011
+Sinaloa, Ahome, 2011
+Sinaloa, Angostura, 2012
+Sinaloa, Culiacán, 2020
+Sinaloa, Elota, 2014
+Sinaloa, Escuinapa, 2011
+Sinaloa, Guasave, 2020
+Sinaloa, Mazatlán, 2020
+Sinaloa, Navolato, 2011
+Sinaloa, Rosario, 2011
+Sinaloa, Salvador Alvarado, 2011
+Sinaloa, San Ignacio, 2014
+Sinaloa, Sinaloa, 2015
+Sonora, Álamos, 2011
+Sonora, Empalme, 2011
+Sonora, Etchojoa, 2011
+Sonora, General Plutarco Elías Calles, 2011
+Sonora, Guaymas, 2011
+Sonora, Hermosillo, 2013
+Sonora, Huatabampo, 2011
+Sonora, Nogales, 2006
+Sonora, Puerto Peñasco, 2011
+Sonora, Quiriego, 2011
+Tabasco, Balancán, 2011
+Tabasco, Centla, 2020
+Tabasco, Centro, 2015
+Tabasco, Comalcalco, 2020
+Tabasco, Paraíso, 2018
+Tabasco, Teapa, 2011
+Tamaulipas, Altamira, 2012
+Tamaulipas, Ciudad Madero, 2011
+Tamaulipas, Matamoros, 2011
+Tamaulipas, Nuevo Laredo, 2006
+Tamaulipas, Reynosa, 2006
+Tamaulipas, San Fernando, 2006
+Tamaulipas, Tampico, 2011
+Tamaulipas, Victoria, 2005
+Tlaxcala, Apizaco, 2011
+Tlaxcala, Atlangatepec, 2016
+Tlaxcala, Huamantla, 2016
+Tlaxcala, Natívitas, 2015
+Tlaxcala, Papalotla de Xicohténcatl, 2015
+Tlaxcala, San Pablo del Monte, 2015
+Tlaxcala, Sanctórum de Lázaro Cárdenas, 2011
+Tlaxcala, Tlaxcala, 2018
+Tlaxcala, Xicohtzinco, 2014
+Tlaxcala, Zacatelco, 2018
+Veracruz de Ignacio de la Llave, Agua Dulce, 2011
+Veracruz de Ignacio de la Llave, Álamo Temapache, 2011
+Veracruz de Ignacio de la Llave, Alpatláhuac, 2011
+Veracruz de Ignacio de la Llave, Alvarado, 2016
+Veracruz de Ignacio de la Llave, Amatlán de los Reyes, 2011
+Veracruz de Ignacio de la Llave, Angel R. Cabada, 2011
+Veracruz de Ignacio de la Llave, Atzacan, 2011
+Veracruz de Ignacio de la Llave, Ayahualulco, 2011
+Veracruz de Ignacio de la Llave, Boca del Río, 2006
+Veracruz de Ignacio de la Llave, Chiconquiaco, 2020
+Veracruz de Ignacio de la Llave, Chocamán, 2011
+Veracruz de Ignacio de la Llave, Chontla, 2018
+Veracruz de Ignacio de la Llave, Coatepec, 2011
+Veracruz de Ignacio de la Llave, Coatzacoalcos, 2011
+Veracruz de Ignacio de la Llave, Coatzintla, 2008
+Veracruz de Ignacio de la Llave, Córdoba, 2020
+Veracruz de Ignacio de la Llave, Coscomatepec, 2018
+Veracruz de Ignacio de la Llave, Huiloapan de Cuauhtémoc, 2018
+Veracruz de Ignacio de la Llave, Ixhuacán de los Reyes, 2011
+Veracruz de Ignacio de la Llave, La Antigua, 2011
+Veracruz de Ignacio de la Llave, La Perla, 2011
+Veracruz de Ignacio de la Llave, Las Choapas, 2009
+Veracruz de Ignacio de la Llave, Lerdo de Tejada, 2011
+Veracruz de Ignacio de la Llave, Martínez de la Torre, 2014
+Veracruz de Ignacio de la Llave, Minatitlán, 2009
+Veracruz de Ignacio de la Llave, Nogales, 2011
+Veracruz de Ignacio de la Llave, Oteapan, 2011
+Veracruz de Ignacio de la Llave, Pánuco, 2011
+Veracruz de Ignacio de la Llave, Poza Rica de Hidalgo, 2020
+Veracruz de Ignacio de la Llave, Río Blanco, 2011
+Veracruz de Ignacio de la Llave, San Andrés Tuxtla, 2008
+Veracruz de Ignacio de la Llave, Tempoal, 2011
+Veracruz de Ignacio de la Llave, Tlacotalpan, 2013
+Veracruz de Ignacio de la Llave, Tlapacoyan, 2009
+Veracruz de Ignacio de la Llave, Vega de Alatorre, 2011
+Veracruz de Ignacio de la Llave, Veracruz, 2006
+Veracruz de Ignacio de la Llave, Xalapa, 2019
+Veracruz de Ignacio de la Llave, Xico, 2011
+Veracruz de Ignacio de la Llave, Zongolica, 2017
+Yucatán, Dzilam de Bravo, 2015
+Yucatán, Hunucmá, 2014
+Yucatán, Ixil, 2013
+Yucatán, Kinchil, 2018
+Yucatán, Motul, 2012
+Yucatán, Peto, 2013
+Yucatán, Progreso, 2011
+Yucatán, Tekax, 2014
+Yucatán, Temax, 2014
+Yucatán, Temozón, 2013
+Yucatán, Ticul, 2013
+Yucatán, Tizimín, 2014
+Yucatán, Umán, 2014
+Yucatán, Valladolid, 2012
+Zacatecas, Fresnillo, 2009
+Zacatecas, Guadalupe, 2011
+Zacatecas, Valparaíso, 2010
+Zacatecas, Zacatecas, 2007
