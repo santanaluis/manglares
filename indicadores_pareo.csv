@@ -1,11 +1,11 @@
 ﻿NOM_VAR,GRUPO
 ENTIDAD,Identificador
-NOM_ENT ,Identificador
+NOM_ENT,Identificador
 MUN,Identificador
-NOM_MUN   ,Identificador
+NOM_MUN,Identificador
 LOC,Identificador
-NOM_LOC ,Identificador
-LONGITUD ,Identificador
+NOM_LOC,Identificador
+LONGITUD,Identificador
 LATITUD,Identificador
 ALTITUD,Identificador
 POBTOT,Sensibilidad
